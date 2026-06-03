@@ -21,7 +21,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-20">
           <div className="flex-shrink-0">
             <Link to="/" className="flex items-center">
-              <img src={logo} alt="ARSYNO Logo" className="h-8 md:h-10 w-auto" />
+              <img src={logo} alt="ARSYNO Logo" className="h-40 md:h-42 w-auto" />
             </Link>
           </div>
           
