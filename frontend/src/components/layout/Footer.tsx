@@ -11,7 +11,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col lg:flex-row justify-between gap-12 lg:gap-8">
           <div className="lg:w-2/5">
-            <Link to="/" className="block mb-6">
+           <Link to="/" className="block -mb-16.1 -ml-5 -mt-10">
               <img src={logo} alt="ARSYNO" className="h-40 md:h-42 w-auto" />
             </Link>
             <p className="text-sm max-w-md">
