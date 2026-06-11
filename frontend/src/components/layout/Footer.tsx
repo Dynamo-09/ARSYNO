@@ -12,7 +12,7 @@ export default function Footer() {
         <div className="flex flex-col lg:flex-row justify-between gap-12 lg:gap-8">
           <div className="lg:w-2/5">
             <Link to="/" className="block mb-6">
-              <img src={logo} alt="ARSYNO" className="h-18 w-auto" />
+              <img src={logo} alt="ARSYNO" className="h-10 w-auto" />
             </Link>
             <p className="text-sm max-w-md">
               Modern financial solutions for forward-thinking companies. We provide Virtual CFO, Bookkeeping, and strategic financial services powered by technology.
