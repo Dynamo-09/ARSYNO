@@ -32,7 +32,7 @@ export default function Home() {
             loop 
             muted 
             playsInline 
-            className="w-full h-full object-cover blur-[3px] opacity-80"
+            className="w-full h-full object-cover blur-[1px] opacity-80"
             style={{
               maskImage: 'linear-gradient(to bottom, black 60%, transparent 100%)',
               WebkitMaskImage: 'linear-gradient(to bottom, black 60%, transparent 100%)'
