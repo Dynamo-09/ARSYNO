@@ -27,8 +27,8 @@ export default function Contact() {
       await submitContact(data);
       toast.success('Your message has been sent successfully!');
       reset();
-    } catch (error) {
-      toast.error('Failed to send message. Please try again later.');
+    } catch (error: any) {
+      toast.error(error.message || 'Failed to send message. Please try again later.');
     }
   };
 
