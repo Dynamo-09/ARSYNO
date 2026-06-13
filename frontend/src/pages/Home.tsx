@@ -85,6 +85,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-5xl font-bold mb-4 text-navy-900">Our <span className="text-techblue">Industries</span></h2>
+            <p className="text-gray-600 max-w-2xl mx-auto text-lg font-medium">Delivering specialized financial strategies tailored to the unique challenges of your sector.</p>
           </div>
           
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8">
