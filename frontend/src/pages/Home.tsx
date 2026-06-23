@@ -17,18 +17,18 @@ const services = [
 ];
 
 const industries = [
-  { icon: <ShoppingCart />, title: 'E-commerce brands' },
-  { icon: <Cloud />, title: 'SaaS companies' },
-  { icon: <HeartPulse />, title: 'HealthTech startups' },
-  { icon: <Truck />, title: 'Logistics & freight' },
-  { icon: <CreditCard />, title: 'FinTech startups' },
-  { icon: <Utensils />, title: 'Food & beverage brands' },
-  { icon: <Sprout />, title: 'AgriTech companies' },
-  { icon: <GraduationCap />, title: 'EdTech platforms' },
-  { icon: <Factory />, title: 'Manufacturing startups' },
-  { icon: <Building />, title: 'Real estate tech' },
-  { icon: <Leaf />, title: 'Climate / cleantech' },
-  { icon: <Store />, title: 'Marketplace platform' },
+  { icon: <ShoppingCart />, title: 'E-commerce Brands' },
+  { icon: <Cloud />, title: 'SaaS Companies' },
+  { icon: <HeartPulse />, title: 'HealthTech Startups' },
+  { icon: <Truck />, title: 'Logistics & Freight' },
+  { icon: <CreditCard />, title: 'FinTech Startups' },
+  { icon: <Utensils />, title: 'Food & Beverage Brands' },
+  { icon: <Sprout />, title: 'AgriTech Companies' },
+  { icon: <GraduationCap />, title: 'EdTech Platforms' },
+  { icon: <Factory />, title: 'Manufacturing Startups' },
+  { icon: <Building />, title: 'Real Estate Tech' },
+  { icon: <Leaf />, title: 'Climate / Cleantech' },
+  { icon: <Store />, title: 'Marketplace Platform' },
 ];
 
 export default function Home() {
